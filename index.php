@@ -7,3 +7,4 @@
  */
 echo "<b>hola a todos";
 echo "<b>Que más?";
+echo "prueba";
