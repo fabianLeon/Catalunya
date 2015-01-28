@@ -6,3 +6,4 @@
  * and open the template in the editor.
  */
 echo "<b>hola a todos";
+echo ":)";
